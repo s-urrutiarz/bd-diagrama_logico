@@ -5,9 +5,6 @@ diagrama lógico "Acertijo del lobo, la cabra y la col"
 
 
 
-
-
-
-![aca una imagen de la tarea](https://github.com/s-urrutiarz/bd-diagrama_logico/blob/master/DIAGRAMA%20LOGICO.jpg?raw=true)
+![aca una imagen de la tarea](https://github.com/s-urrutiarz/bd-diagrama_logico/blob/master/DIAGRAMA%20LOGICO.jpg)
 
 
